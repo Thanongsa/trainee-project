@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidUSBSerialMonitorLite/bin/dexedLibs/physicaloidlibrary-9666397fd9d2de1a421208094000afaa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidUSBSerialMonitorLite/bin/dexedLibs/d2xx-fd06b5538a28d736b4ac428fed20639f.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/PhysicaloidLibrary/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/PhysicaloidLibrary/src" />
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/SampleProjects/PhysicaloidTest/src" />
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/SampleProjects/tutorial1/src" />
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/SampleProjects/tutorial2/src" />
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/SampleProjects/tutorial3/src" />
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/SampleProjects/tutorial4/src" />
+      <root url="file://$PROJECT_DIR$/../PhysicaloidLibrary-master/SampleProjects/tutorial5/src" />
+    </SOURCES>
+  </library>
+</component>
