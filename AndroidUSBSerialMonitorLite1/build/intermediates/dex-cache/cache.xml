@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\thanongsak\Desktop\PhysicaloidLibrary-master\SampleProjects\AndroidUSBSerialMonitorLite1\app\build\intermediates\exploded-aar\AndroidUSBSerialMonitorLite1\PhysicaloidLibrary\unspecified\jars\libs\d2xx.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e8d03535f203f1c75f2c81d0ec326170b0d03e8">
+        <dex dex="C:\Users\thanongsak\Desktop\PhysicaloidLibrary-master\SampleProjects\AndroidUSBSerialMonitorLite1\app\build\intermediates\pre-dexed\debug\d2xx_7e885925840fb592da854a64d8bdf64a1d5739e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\thanongsak\Desktop\PhysicaloidLibrary-master\SampleProjects\AndroidUSBSerialMonitorLite1\app\build\intermediates\exploded-aar\AndroidUSBSerialMonitorLite1\PhysicaloidLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="64450996855d3dc170ba8f07ae98d74e1f1af072">
+        <dex dex="C:\Users\thanongsak\Desktop\PhysicaloidLibrary-master\SampleProjects\AndroidUSBSerialMonitorLite1\app\build\intermediates\pre-dexed\debug\AndroidUSBSerialMonitorLite1-PhysicaloidLibrary-unspecified_f6aee267c1090e321d7b78dbbeac3d25530466d2.jar" />
+    </item>
+
+</items>

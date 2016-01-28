@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_header.xml",
+        "source": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\src\\main\\res\\xml\\pref_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_disp_inner.xml",
+        "source": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\src\\main\\res\\xml\\pref_disp_inner.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_inner.xml",
+        "source": "C:\\Users\\thanongsak\\Desktop\\PhysicaloidLibrary-master\\SampleProjects\\AndroidUSBSerialMonitorLite1\\app\\src\\main\\res\\xml\\pref_inner.xml"
+    }
+]
