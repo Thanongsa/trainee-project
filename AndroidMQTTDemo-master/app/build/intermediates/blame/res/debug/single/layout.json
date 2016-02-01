@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_text_view.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\list_view_text_view.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subscribe.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\activity_subscribe.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_connection.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\activity_new_connection.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rs232.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\activity_rs232.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filedialogitem.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\filedialogitem.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\client_connections.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\client_connections.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connection_details.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\activity_connection_details.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\connection_text_view.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\connection_text_view.xml"
+    },
+    {
+        "merged": "D:\\New folder\\AndroidMQTTDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_advanced.xml",
+        "source": "D:\\New folder\\AndroidMQTTDemo-master\\app\\src\\main\\res\\layout\\activity_advanced.xml"
+    }
+]
